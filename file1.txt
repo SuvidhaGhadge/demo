@@ -1,4 +1,7 @@
 Hello World-1a
 Hello World-1b
+<<<<<<< HEAD
 New change
+=======
+>>>>>>> 3a222c4 (This is new change gitB)
 Hello World - 2nd commit
